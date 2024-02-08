@@ -127,7 +127,7 @@ Shaders used:
     smaa linear [smaa+linear.slangp]
     Ps1 boxblur [ps1-dedither-boxblur.slangp]
     Megabezel gdv [MBZ__3__STD__GDV.slangp]
-    Megabezel gdv NTSC [MBZ__1__ADV__GDV-NTSC.slangp]
+    Megabezel gdv NTSC [MBZ__3__STD__GDV-NTSC.slangp]
 
 
 Special Thanks to guest.r and his [wonderful work](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) and to all the libretro’s shader community!
