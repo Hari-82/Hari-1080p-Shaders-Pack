@@ -63,6 +63,7 @@ Shaders used:
 
     Guest's Advance [crt-guest-advanced.slangp]
     Guest's NTSC [crt-guest-advanced-ntsc.slangp]
+    Hyllian' CRT [crt-hyllian.slangp]
     Grade [grade.slangp]
     Scale fx + aa [scalefx+rAA+aa-fast.slangp]
     XBR LVL2 [xbr-lv2.slangp]
