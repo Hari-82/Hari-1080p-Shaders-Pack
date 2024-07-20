@@ -51,7 +51,7 @@ Retroarch_main_folder/shaders/shaders_slang/hari/
 
 --------------------Important--------------------
 
-you need to have the latest guest.r's shaders: it can be found [HERE](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) .
+you need to have the latest guest.r's shaders installed: Main Menu -> Online Updater -> Update Slang Shaders.
 
 --------------------Important--------------------
 
