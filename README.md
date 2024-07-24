@@ -41,11 +41,7 @@ _________________________________________
 
 To install:
 
- Simply extract the “hari” folder and place it anywhere in your Retroarch main folder, but for easy of use I suggest to place it either in shaders_slang or in the main shader's directory.
-
-Retroarch_main_folder/shaders/hari/
-
-or 
+ Simply extract the “hari” folder and place it anywhere in your Shaders_Slang folder
 
 Retroarch_main_folder/shaders/shaders_slang/hari/
 
