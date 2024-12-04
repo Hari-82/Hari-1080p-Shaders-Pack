@@ -41,30 +41,26 @@ _________________________________________
 
 To install:
 
- Simply extract the “hari” folder and place it anywhere in your Shaders_Slang folder
+ Simply extract the “hari” folder and place in your shaders directory.
 
-Retroarch_main_folder/shaders/shaders_slang/hari/
 
---------------------Important--------------------
+Retroarch_main_folder/shaders/hari/
 
-you need to have the latest guest.r's shaders installed: Main Menu -> Online Updater -> Update Slang Shaders.
+_____________Important___________________
 
---------------------Important--------------------
+you need to have the latest guest.r's shaders: Main Menu -> Online Updater -> Update Slang Shaders.
 
 _________________________________________
 
 Comments and suggestions at [Libretro Forum post](https://forums.libretro.com/t/haris-1080p-shaders-presets-screenshots/43734)
 
-Shaders used:
+Some of the Shaders used:
 
     Guest's Advance [crt-guest-advanced.slangp]
-    Guest's NTSC [crt-guest-advanced-ntsc.slangp]
-    Hyllian' CRT [crt-hyllian.slangp]
+    Hyllian's Uborder
+    HSM's Megabezel 
     Grade [grade.slangp]
-    Scale fx + aa [scalefx+rAA+aa-fast.slangp]
-    XBR LVL2 [xbr-lv2.slangp]
-    XBRZ 4X Linear [4xbrz-linear.slangp]
-    smaa linear [smaa+linear.slangp]
 
 
 Special Thanks to guest.r and his [wonderful work](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) and to all the libretro’s shader community!
+
